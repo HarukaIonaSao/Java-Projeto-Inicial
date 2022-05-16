@@ -1,4 +1,5 @@
-*O que são variáveis? Na linguagem Java
+*O que são variáveis? :smiley: 
+Na linguagem Java
 Um espaço na memória do computador, onde se pode guardar valores
 
 Existem 4 tipos:
