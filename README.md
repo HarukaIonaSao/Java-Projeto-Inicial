@@ -6,7 +6,7 @@ Espero que te ajude
 
 Visite meu Github e veja meu progresso
 
-https://github.com/HarulaIonaSao1
+https://github.com/HarulaIonaSao
 
 não esqueça de baixar o java Zulu Lts11 para sua versão.
 No documento 'manual java projeto.md' tem o link de download e instalação corretos
