@@ -4,7 +4,7 @@ Estou escrevendo sobre o conteúdo e fazendo exercícios.
 No final das aulas , tenho o objetivo de criar um projeto simples.
 Espero que te ajude
 
-Visite meu Github e veja meu progresso
+- Os exercícios estão no meu repositório:https://github.com/HarukaIonaSao/Exercicios-Generation-Logica-de-Programacao
 
 
 
